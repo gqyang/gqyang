@@ -34,9 +34,9 @@ Backend, Frontend & Cloud
 
 - 🌱 I’m currently learning UI & UX 
 
-- 👯 I’m looking to collaborate on  
+- 👯 I’m looking to collaborate on Projects related to ML/Data Science , Building APIs
 
-- 💬 Talk to me about  
+- 💬 Talk to me about Cool Python libraries , Pandas Profiling etc , Web Scraping , Programming Humor , Soccer ⚽
 
 
 
