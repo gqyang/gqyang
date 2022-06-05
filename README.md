@@ -12,7 +12,7 @@
 </div>
   
   
-<h2> About Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> About Me  </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
   
